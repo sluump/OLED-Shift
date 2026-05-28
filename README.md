@@ -1,4 +1,4 @@
-# 🖥️ OLED Shift
+# OLED Shift
 
 **AutoHotkey v2 Window Drift Script — burn-in protection for OLED displays**
 
